@@ -17,6 +17,7 @@ export default function CVProfessional() {
             <span>📍 27, rue Paul Deviolaine, F-02200 Soissons</span>
             <span>📧 cyril.gourdon.02@gmail.com</span>
             <span>🔗 linkedin.com/in/cyril-gourdon/</span>
+            <span>📞 06 15 60 33 44</span>
           </div>
         </div>
 
